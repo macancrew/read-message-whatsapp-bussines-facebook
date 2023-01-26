@@ -7,7 +7,7 @@ untuk respon get bisa cari langsung di dokumentasi facebook developer
 
 contoh respon yang masuk kalau ada pesan atau reply ke akun WA bisnis kita sbb
 
-{"object":"whatsapp_business_account","entry":[{"id":"11525168xxxx","changes":[{"value":{"messaging_product":"whatsapp","metadata":{"display_phone_number":"6285156xxxxx","phone_number_id":"11492659xxxxx"},"contacts":[{"profile":{"name":"macancrew"},"wa_id":"6285244214600"}],"messages":[{"from":"6285244xxxxx","id":"wamid.HBgNNjI4NTxxx==","timestamp":"1674741521","text":{"body":"silahkan explore sesuai keperluan"},"type":"text"}]},"field":"messages"}]}]}
+{"object":"whatsapp_business_account","entry":[{"id":"11525168xxxx","changes":[{"value":{"messaging_product":"whatsapp","metadata":{"display_phone_number":"6285156xxxxx","phone_number_id":"11492659xxxxx"},"contacts":[{"profile":{"name":"macancrew"},"wa_id":"62852442xxxxx"}],"messages":[{"from":"6285244xxxxx","id":"wamid.HBgNNjI4NTxxx==","timestamp":"1674741521","text":{"body":"silahkan explore sesuai keperluan"},"type":"text"}]},"field":"messages"}]}]}
 
 karena webhook saya menggunakan google-script jadi pesan masuknya sy simpan saja ke google-sheet
 intinya adalah contoh respom JSON saat ada pesan masuk 
