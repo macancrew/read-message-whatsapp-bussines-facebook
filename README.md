@@ -12,4 +12,4 @@ contoh respon yang masuk kalau ada pesan atau reply ke akun WA bisnis kita sbb
 karena webhook saya menggunakan google-script jadi pesan masuknya sy simpan saja ke google-sheet
 intinya adalah contoh respom JSON saat ada pesan masuk 
 
-<img src=image3.jpg>
+<img src=Image3.jpg>
