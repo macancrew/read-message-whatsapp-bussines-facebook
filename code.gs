@@ -18,3 +18,18 @@ try {
   }
 
 }
+
+
+function doGet(e) {
+
+try {
+  var x = e['parameter']['hub.challenge'].length
+  var ch = e['parameter']['hub.challenge']
+  te = ContentService.createTextOutput(ch)
+  return te
+} catch(err) { 
+  var to = ContentService.createTextOutput("200 OK HTTPS")
+  return to
+}
+
+}///end doget
