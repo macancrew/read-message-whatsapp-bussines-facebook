@@ -13,3 +13,7 @@ karena webhook saya menggunakan google-script jadi pesan masuknya sy simpan saja
 intinya adalah contoh respom JSON saat ada pesan masuk 
 
 <img src=Image3.jpg>
+
+contoh videonya
+
+https://t.co/n77w1XupvC
